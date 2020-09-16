@@ -1,0 +1,7 @@
+body{padding-top: 20px}
+a:hover{background-color: yellow}
+.nav{background-color:#34d2eb;border-radius: 5px;border: 1px solid black}
+.nav li a{padding: 15px 0;text-align: center; }
+.jumbo{text-align: center;}
+.jumbo btn{padding: 15px 25px;font-size: 22px}
+.col-lg-4{text-align: center;padding-top: 20px}
